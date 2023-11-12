@@ -1,5 +1,7 @@
 # Curriculum Vitae
 ***
+![My photo](https://lh3.googleusercontent.com/a/ACg8ocLO5hrkQxLNLBbiLPA5uYbyD4gHsbI0OC4Xe3FSkV_m-gM=s288-c-no)
+***
 1. **Full name:** *Filimonov Pavel*
 2. **Contant information:**
     * *Discord: PaveLSwifT#9977*
