@@ -13,4 +13,4 @@
 5. **Code examples:** *[The task I solved](https://www.codewars.com/kata/50654ddff44f800200000004/solutions/javascript)*
 6. **Experience:** *I did some Figma layouts with flex and grid technologies.*
 7. **Education:** *Yandex.practicum, Kata-academy, Netology.*
-8. **English level:** *My level of English is B2. I also had a girlfriend from German and I wrote a spoke English with her.*
+8. **English level:** *My level of English is B2. I also had a girlfriend from German and I wrote and spoke English with her.*
