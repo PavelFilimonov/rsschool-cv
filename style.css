@@ -1,0 +1,39 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.header_title {
+  margin: 0 auto;
+  padding-bottom: 1.5rem;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.hreader_photo {
+  margin: 0 auto 1.5rem;
+  width: 300px;
+  border-radius: 50%;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.hard-skills {
+  font-size: 1.2rem;
+}
+
+.hard-skills__item {
+  margin-bottom: 0.5rem;
+}
